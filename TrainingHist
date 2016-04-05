@@ -1,4 +1,4 @@
-@model FFCNMaintenance.Models.MasterModel
+@model XXXX.Models.MasterModel  <!--had to block company name-->
 @Scripts.Render("~/bundles/jqueryui")
 <script type="text/javascript">
     $(function () { // will trigger when the document is ready
